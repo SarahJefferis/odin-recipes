@@ -1,9 +1,14 @@
 body {
-	color: purple;
-	font-family: ariaL;
+	color: pink;
+	font-family: arial;
 }
 
 h1 {
-	color: green;
+	color: white;
 	background-color: blue;
+}
+
+a {
+	color: blue;
+	font-family: impact;
 }
