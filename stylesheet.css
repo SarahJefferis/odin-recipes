@@ -1,14 +1,38 @@
-body {
+* {
+	margin: 5px;	
+}
+.why1 {
+	font-style:italic;
+	font-weight: bold;
+	font-variant: small-caps;
 	color: pink;
+	font-size: 30px;
+}
+.why2 {
+	font-style: italic;
+}
+ol {
+	color: black;
+	background-color: white;
+}
+main {
+	color: lavenderblush;
 	font-family: arial;
 }
-
 h1 {
-	color: white;
-	background-color: blue;
+	color: black;
+	background-color: white;
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+a {
+	color: hotpink;
+	font-style: italic;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+html {
+	background-color: rgb(77, 47, 85);
 }
 
-a {
-	color: blue;
-	font-family: impact;
-}
